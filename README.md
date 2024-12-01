@@ -1,7 +1,8 @@
 **To nowa teoria odleglosci Planety Ziemia od innych planet na podstawie ich pełni 
 nie sugerujac sie standardowym ukladem slonecznym**
 
-★
+
+**★
 ★★
 ★★★
 ★★★★
@@ -9,7 +10,7 @@ nie sugerujac sie standardowym ukladem slonecznym**
 ★★★★
 ★★★
 ★★
-★
+★**
 216 krajów 
 Gra zeapołowa 
 8 Planet 
